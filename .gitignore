@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Local persistence
+reconciliation.db
+*.db
+
+# Generated demo and evaluation data
+backend/data/*.csv
