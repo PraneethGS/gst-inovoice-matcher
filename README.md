@@ -188,3 +188,5 @@ The exact row counts in the generated CSVs vary because some scenarios add extra
 - Works on a batch large enough to surface real exception patterns
 - Produces a full exception list with plain-language reasons
 - Persists runs so resolution history is retained
+<img width="2720" height="2304" alt="gst_matcher_architecture" src="https://github.com/user-attachments/assets/30712b58-5733-4e88-a87d-81d76c672a9b" />
+
